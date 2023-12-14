@@ -1,0 +1,12 @@
+# deps
+node_modules
+
+# CommandKit
+dist
+.commandkit
+
+# env variables
+.env
+
+# miscellaneous
+**/.DS_Store
