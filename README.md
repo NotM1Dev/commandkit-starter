@@ -14,6 +14,7 @@ npm install
 ```
 
 3. Add environment variables:
+> Tip: CommandKit handles environment variables for you, so you do not need a package like dotenv.
 - Head to the [Discord Developer Portal](https://discord.com/developers/applications) and grab your bot's token.
 - Create a new `.env` file in the root directory, similar in structure to the `.env.example` file.
 - Set `DISCORD_TOKEN` to your bot's token e.g. `DISCORD_TOKEN=xxxxxxxxx`
